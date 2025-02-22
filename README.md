@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://in.pinterest.com/pin/135037688821923831/" />
+<img align="right" height="150" src="./Git.gif" />
 
 
 ###
