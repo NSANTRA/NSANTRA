@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="./Git.gif" />
+<img align="right" height="150" src="Git.gif" />
 
 
 ###
