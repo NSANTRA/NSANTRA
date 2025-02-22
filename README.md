@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="./snake.yml" alt="Snake animation" />
+![Snake animation](https://github.com/NSANTRA/NSANTRA/blob/output/snake.svg)
 
 ###
