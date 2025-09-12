@@ -41,7 +41,6 @@
 ###
 
 <br clear="both">
-
-![Snake animation](https://github.com/NSANTRA/NSANTRA/blob/output/snake.svg)
+![Snake animation](snake.svg)
 
 ###
