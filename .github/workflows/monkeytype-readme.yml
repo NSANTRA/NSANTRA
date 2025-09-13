@@ -5,6 +5,9 @@ on:
     - cron: "0 */24 * * *" # every 24 hours
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   download-svg:
     runs-on: ubuntu-latest
