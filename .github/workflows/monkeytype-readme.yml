@@ -1,4 +1,4 @@
-name: generate monkeytype readme svg
+name: MonkeyType Stats
 
 on:
   schedule:
