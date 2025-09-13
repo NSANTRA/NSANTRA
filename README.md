@@ -76,9 +76,11 @@ arch in ~
 
 ###
 
-<a href="https://monkeytype.com/profile/GhostofTwilight">
-    <img src="https://raw.githubusercontent.com/NSANTRA/NSANTRA/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-</a>
+<div align = "center">
+  <a href="https://monkeytype.com/profile/GhostofTwilight">
+      <img src="https://raw.githubusercontent.com/NSANTRA/NSANTRA/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+  </a>
+</div>
 
 <br clear="both">
 
