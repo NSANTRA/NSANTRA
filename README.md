@@ -76,6 +76,10 @@ arch in ~
 
 ###
 
+<a href="https://monkeytype.com/profile/GhostofTwilight">
+    <img src="https://raw.githubusercontent.com/NSANTRA/NSANTRA/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+</a>
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/NSANTRA/NSANTRA/refs/heads/output/snake.svg" alt="Snake animation" />
