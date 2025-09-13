@@ -76,14 +76,23 @@ arch in ~
 
 ###
 
-<div align = "center">
-  <a href="https://monkeytype.com/profile/GhostofTwilight">
-      <img src="https://raw.githubusercontent.com/NSANTRA/NSANTRA/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-  </a>
-</div>
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/NSANTRA/NSANTRA/refs/heads/output/snake.svg" alt="Snake animation" />
 
-###
+
+### ⌨️ Typing Journey
+Every keypress is a beat, every sentence a rhythm.  
+I’ve been chasing speed, flow, and precision — one test at a time.  
+
+- ⚡ Streaks that keep me coming back  
+- 🎯 Accuracy that stays sharp (even when the timer doesn’t)  
+- 🚀 Peaks of **105 WPM** when the words align just right  
+- 🌌 And countless hours lost in the click-clack of keys  
+
+> “Typing isn’t just about speed — it’s about rhythm, flow, and determination.”  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NSANTRA/NSANTRA/monkeytype-readme/monkeytype-readme-lb-pb.svg" width="300" />
+</div>
+
