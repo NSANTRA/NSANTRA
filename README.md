@@ -1,46 +1,77 @@
-<h2 align="left">Hi 👋! My name is Neelotpal Santra and I'm an aspiring AI ML developer, from India</h2>
+<h2 align="left">✨ Hey there, I’m Neelotpal! 👋</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NSANTRA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NSANTRA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img align="right" height="190" src="https://media.githubusercontent.com/media/NSANTRA/NSANTRA/refs/heads/main/Git.gif?token=A2T2HWFGZ3SMYHEM3ERS3GLIYWY56"  />
+
+<!-- <h5 align="left">🚀 Passionate about Open Source, Linux, Coding, Configuring and Theming!  <br>💻 B.Tech CSE Student | Exploring Web Dev & Programming  <br>🎨 Customizing UI & UX | Arch Linux Enthusiast BTW  <br>🎶 Vibing to Music<br><br>🌟 Always learning, always building! 🚀</h6> -->
 
 ###
 
-<img align="right" height="150" src="https://github.com/NSANTRA/NSANTRA/blob/main/Git.gif" />
-
-###
-
-<div align="center">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="Rust logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
-</div>
-
-###
-
-<div align="center"> 
-  <a href="mailto:neelotpal.santra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/neelotpal-santra-782358307/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorhc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
 </div>
 
 ###
 
 <br clear="both">
-![Snake animation](https://raw.githubusercontent.com/NSANTRA/NSANTRA/refs/heads/main/snake.svg)
+
+###
+
+<!-- <img align="right" height="145" src="./gifs/anime-dance.gif"  /> -->
+
+<div align="center">
+  <a href="https://open.spotify.com/playlist/6P8aDEtzcc7HDgzFoQpi5A?si=d81baf614c694867">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nr5sqvvihh7zmxi6ky5vl2c5e4&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+<!-- ```
+
+           .             ​ eternal@world 
+          .c.           ┌───────────────────────────────┐ 
+         .ccc.           ​ OS : Arch Linux
+        .lllll.          ​ Kernel : linux-zen 6.14 
+       ..;'olll.         ​ WM : Hyprland 
+      .dolllcccl.        ​ Shell : fish
+     .lcc'   'ccc.       ​ Uptime : 23 years
+    .ccc'     'cc:.      ​ CPU : NeuraCore AX-1
+   .cccc'     'c:;..    └───────────────────────────────┘ 
+  ."'             '".     E   T   E   R   N   A   L   火 
+
+arch in ~ 
+  λ echo "Stay Determined!"
+``` -->
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NSANTRA&show_icons=true&theme=gruvbox" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=NSANTRA&locale=en&mode=weekly &theme=gruvbox" height="150" alt="streak graph"   />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSANTRA&layout=compact&theme=gruvbox" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NSANTRA/NSANTRA/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
