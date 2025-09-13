@@ -4,7 +4,13 @@
 
 <img align="right" height="190" src="https://media.githubusercontent.com/media/NSANTRA/NSANTRA/refs/heads/main/Git.gif?token=A2T2HWFGZ3SMYHEM3ERS3GLIYWY56"  />
 
-<!-- <h5 align="left">🚀 Passionate about Open Source, Linux, Coding, Configuring and Theming!  <br>💻 B.Tech CSE Student | Exploring Web Dev & Programming  <br>🎨 Customizing UI & UX | Arch Linux Enthusiast BTW  <br>🎶 Vibing to Music<br><br>🌟 Always learning, always building! 🚀</h6> -->
+<h4 align="left">
+🚀 Passionate about Open Source, Linux, Coding, Configuring and Theming!  <br>
+💻 AI/ML Developer | B.Tech CSE Student  <br>
+🎨 Customizing UI & UX | Linux Enthusiast  <br>
+🎶 Vibing to Music<br><br>
+🌟 Always learning, always building! 🚀
+</h4>
 
 ###
 
