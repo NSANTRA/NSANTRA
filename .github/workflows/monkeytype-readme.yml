@@ -2,7 +2,7 @@ name: MonkeyType Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every 24 hours at midnight
+    - cron: "0 */3 * * *" # every 24 hours at midnight
   workflow_dispatch:
 
 permissions:
