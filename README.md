@@ -5,9 +5,9 @@
 <img align="right" height="190" src="https://media.githubusercontent.com/media/NSANTRA/NSANTRA/refs/heads/main/Git.gif?token=A2T2HWFGZ3SMYHEM3ERS3GLIYWY56"  />
 
 <h4 align="left">
-🚀 Passionate about Open Source, Linux, Coding, Configuring and Theming!  <br>
+<!-- 🚀 Passionate about Open Source, Linux, Coding, Configuring and Theming!  <br> -->
 💻 AI/ML Developer | B.Tech CSE Student  <br>
-🎨 Customizing UI & UX | Linux Enthusiast  <br>
+🚀 Linux Enthusiast  <br>
 🎶 Vibing to Music<br><br>
 🌟 Always learning, always building! 🚀
 </h4>
