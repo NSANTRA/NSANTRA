@@ -70,8 +70,11 @@ arch in ~
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NSANTRA&show_icons=true&theme=gruvbox" height="150" alt="stats graph"  />
+
   <img src="https://streak-stats.demolab.com?user=NSANTRA&locale=en&mode=weekly&theme=gruvbox" height="150" alt="streak graph"   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSANTRA&layout=compact&theme=gruvbox" height="150" alt="languages graph"  />
+
+  <br>
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NSANTRA&repo=Intel-CNN-Image-Classification&theme=gruvbox" height="150" alt="languages graph"  />
 
