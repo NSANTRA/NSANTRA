@@ -76,7 +76,7 @@ arch in ~
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NSANTRA&repo=Intel-CNN-Image-Classification&theme=gruvbox" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NSANTRA&repo=RAG-MCP-Server&theme=gruvbox" height="150" alt="languages graph"  />
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NSANTRA&repo=WaveformNet&theme=gruvbox" height="150" alt="languages graph"  />
 </div>
